@@ -6,7 +6,8 @@
 2. Escribe el código HTML básico necesario para crear una página web válida.
 3. En el `<head>`, agrega un título que diga "Examen de HTML y CSS".
 4. Crea una barra de navegación (`<nav>`) con una lista no ordenada (`<ul>`) que contenga tres elementos de lista (`<li>`). Cada elemento de lista debe contener un enlace (`<a>`) con un texto que represente diferentes secciones de la página, como "Inicio," "Historia," y "Campeones." Asegúrate de que los enlaces se conecten a secciones correspondientes mediante fragmentos de URL.
-5. Crea tres secciones (`<section>`) con los siguientes identificadores: "inicio," "historia," y "campeones." Dentro de cada sección, agrega un título (`<h2>`) que describa el contenido de la sección y un párrafo (`<p>`) que contenga información relacionada con el tema de la sección.
+5. Crea tres secciones (`<section>`) con los siguientes identificadores: "inicio," "historia," y "campeones." Dentro de cada sección, agrega un título (`<h2>`) que describa el contenido de la sección y un párrafo (`<p>`) que contenga información relacionada con el tema de la sección (no es necesario un gran texto).
+6. En cada sección agregar un (`<div>`) con la clase "FOTOS" una imagen detro (`<img/>`)
 
 ## Parte 2: CSS (20 puntos)
 
@@ -27,5 +28,6 @@
      - Fuente en negrita (`font-weight: bold`).
 6. Estiliza las secciones (`<section>`) de contenido de la página de la siguiente manera:
    - Margen inferior de 20px (`margin-bottom: 20px`).
+7. Estiliza los elementos de la clase "FOTOS" agregando un borde (`border: `) en color verde.
 
 **Puntuación total: 50 puntos**
